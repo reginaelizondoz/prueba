@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/reginaelizondo/Desktop/Ejercicio1bueno/Ejercicio1bueno/Ejercicio1bueno.csproj": {}
+    "/Users/reginaelizondo/Desktop/Repo/prueba/Ejercicio1bueno/Ejercicio1bueno.csproj": {}
   },
   "projects": {
-    "/Users/reginaelizondo/Desktop/Ejercicio1bueno/Ejercicio1bueno/Ejercicio1bueno.csproj": {
+    "/Users/reginaelizondo/Desktop/Repo/prueba/Ejercicio1bueno/Ejercicio1bueno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/reginaelizondo/Desktop/Ejercicio1bueno/Ejercicio1bueno/Ejercicio1bueno.csproj",
+        "projectUniqueName": "/Users/reginaelizondo/Desktop/Repo/prueba/Ejercicio1bueno/Ejercicio1bueno.csproj",
         "projectName": "Ejercicio1bueno",
-        "projectPath": "/Users/reginaelizondo/Desktop/Ejercicio1bueno/Ejercicio1bueno/Ejercicio1bueno.csproj",
+        "projectPath": "/Users/reginaelizondo/Desktop/Repo/prueba/Ejercicio1bueno/Ejercicio1bueno.csproj",
         "packagesPath": "/Users/reginaelizondo/.nuget/packages/",
-        "outputPath": "/Users/reginaelizondo/Desktop/Ejercicio1bueno/Ejercicio1bueno/obj/",
+        "outputPath": "/Users/reginaelizondo/Desktop/Repo/prueba/Ejercicio1bueno/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/reginaelizondo/.nuget/NuGet/NuGet.Config"
