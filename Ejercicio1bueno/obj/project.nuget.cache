@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "WaFBb7eW+80/Cx66mdQEtoGmJMXbnUvPkGAw3qoKThgZFaFbjriXG3t6TFfuUDU03ogsqpwSnAKaEzU7Z5kbkA==",
+  "dgSpecHash": "E76SMkTS6bGGtzQzN42hvFh/X4WGmdA6zTXMDmKJwl5kW+Z6wHJ/4RAwnzamNKvAfJAAspGDurZZmQEurfVHsQ==",
   "success": true,
-  "projectFilePath": "/Users/reginaelizondo/Desktop/Ejercicio1bueno/Ejercicio1bueno/Ejercicio1bueno.csproj",
+  "projectFilePath": "/Users/reginaelizondo/Desktop/Repo/prueba/Ejercicio1bueno/Ejercicio1bueno.csproj",
   "expectedPackageFiles": [
     "/Users/reginaelizondo/.nuget/packages/microsoft.aspnetcore.html.abstractions/2.2.0/microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "/Users/reginaelizondo/.nuget/packages/microsoft.aspnetcore.razor/2.2.0/microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
